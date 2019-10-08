@@ -1,0 +1,147 @@
+
+.bg-white {
+    background:#FFFFFF;
+}
+
+.bg-grey {
+    background:#F9F9F9;
+}
+
+.frontpage-header {
+    background-image: url("../img/img-about-slide-1.png");
+    min-height: 60vh;
+    color:#FFFFFF;
+}
+
+.frontpage-header img {
+    padding:15px;
+}
+
+.padding-top-1 {
+    padding-top: 88px;
+}
+
+.padding-top-2 {
+    padding: 15px;
+}
+
+.padding-top-3 {
+    padding-top: 30px;
+}
+
+.padding-bottom-1 {
+    padding-bottom: 75px;
+}
+
+.logo {
+    width:112px;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding:15px;
+    font-size:14px;
+}
+
+.font-size-1 {
+    font-size:14px;
+}
+
+.font-size-2 {
+    font-size:20px;
+}
+
+.font-size-3 {
+    font-size:30px;
+}
+
+.font-size-4 {
+    font-size:16px;
+}
+
+.tabbed-filter-selected {
+    width:60%;
+    border-bottom: 2px solid #000000;
+    display:inline-block;
+}
+
+label {
+    padding-top: 0 !important;
+}
+
+.job-card {
+    padding:40px;
+    background:#FFFFFF;
+    margin:0;
+    box-shadow: -10px 10px 20px #E9E9E9;
+    margin-top:33px;
+    position:relative;
+}
+
+.job-card img {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.job-card .description {
+    padding:29px 0;
+}
+
+.font-color-grey {
+    color:#B2B2B2;
+}
+
+.job-card .applyButton {
+    color:#43BA80;
+    padding:10px 30px;
+    border-radius:5px;
+}
+
+.job-card .applyButton:hover {
+    background:#43BA80;
+    color:#FFFFFF;
+    text-decoration: none;
+}
+
+.job-card span.jobCategory {
+    padding:10px;
+    border: 2px solid #000000;
+    border-radius: 20px;
+}
+
+footer {
+    background:#000000;
+    color:#FFFFFF;
+}
+
+footer .footer-item {
+    padding:10px 0;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.button-2 {
+    color: #000000;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background:none;
+    padding:15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    /* appearance: none;     
+    background-image: url('./../img/dropdown-arrow.svg') 10% / 10% no-repeat #EEE;   */
+    width:100%;
+}
+
+
+
+
+
